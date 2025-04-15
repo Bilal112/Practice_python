@@ -1,2 +1,54 @@
 .env
 chat-app-d8550-0534a29e2468.json
+# Bytecode and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Environment and secret config files
+.env
+*.env
+*.json           # If it's a secret/config like service account
+secrets.json
+*.pem
+*.key
+
+# IDE/editor folders
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Log files and caches
+*.log
+*.sqlite3
+*.db
+*.bak
+*.cache/
+*.pytest_cache/
+.coverage
+
+# Build/output folders
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Test output
+htmlcov/
+nosetests.xml
+coverage.xml
+test-output/
