@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "chat-app-d8550",
+  "private_key_id": "0534a29e24684f3a941f89fca309d1d21d960b44",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC7C0k3/Dytcn7a\nF7yajBT6bm4ZLGPelUr5N7nRc1XpxMGtK3ves0ToBUHLjsxeDKAheNuZmrukyFbF\nCj/HOpVf6fjLVLnHzyRBTgy+kBFhjyv22m+/Y4lpzefEQzSuBpFixJrU7VNx806u\nB+q0Qn+4FFJEYydZggrls2jZ27H+ULjKjSWMmwILbtuIOpZZ7m7LDWprd1JUASKg\nz4jgrK5esu/jA53vnHMKkQcYYCc38Vw5nujvpz6hZbzA/tMXKt1TrF70ffWDhIqn\n9au6m95SvIOMlaSoJk4gwa2xe2qmLp238hEsQ4A4GP4BHAFDTnLhmpCns9Pfit2x\nycFRd/hRAgMBAAECggEAIP4UpDNx4IZZqc6WDgy3hpUEBpy14QUkfGE//ZoChYGX\nSBxrdRTaCrMir+04Tz6a4EyZL7cDckWESK1OIq5KuuhiYjtHqd733i0OQm7XIgZH\nEvvkyjWcf3U6dHwGRswRyQI07WoPVgI81qW+2J0COk4bVMTIpBk0IuBKlmMSOnFl\ncLUitnbgRk79fNbxpHYHI8gLs216w9BIo307avA+y3H4OA2uvlS0PbiddupMqYjm\nkXvNtEr8cAKdqWApYFmwH+2gLLOd7+VF6YOhv9MXublwJ366SiWsO8844hXVPEQP\nAFKYyYvlePtS9t3Aqtt8DyXbpiob6Uis1KsBMq51gQKBgQDfQGCAh0nEvwXV5QyE\nln+Xq92tgI7FJXI8zCyBOMmLT5gIZPnJT4rdTz/uDg1kPbM+NacVegiwfH2Hob+c\n4UK2cAQ3c/lGD0LS/jzGAq4gK6swtB6A6ews23vs/Wca64yevPc0rz1GjOCWTqVc\nSEbMRglLfVRj5PaH67QBLDMKNQKBgQDWezxWGoqrBkUmrpjunBwz6juei771UynR\nBN9KFohkLFHrsw52o+PR6c2SlZQOL8y7Gx+0oYpXsFriHx4y1UkMoigQPf+T6oe+\nxr4j03V1lh90fF2Ws8Z6hxm2Zif91VsPAVKIPo8xlqbd/kXvYBkJZ/h+eiVIOCFl\n9FP7XoAZLQKBgFvUMh2MCGbaH/9cSKrc8LylX/h28cLb5UJmxUOd5SDda27AghIx\nGrBvYZ98vjtmOa00CncGDD7z5fp9KMDR00wRhVp95KHRsy3wj3TvM0peS/sri4SB\nM7k7ypyvmtJy4xOELLbKAg1b8yFAVjpALIbno/keIzE3w8QiypbU5GWlAoGAG5NY\nnJFpBrgVp/WGwBbeIWaaJ7Y75Pq+Q5tmwfXHr2lrVux8jZBguBphTdlhYbmPjvbb\nyrOCP+fyp2Ps1AhMDg3DLONruq7KqSKQS7biQS39+VIMDlYqzJIWIjdcKOyHepRm\n8hFpA60k4yHQCAjI70ao0koOBQ0CbkNNkOIDgjkCgYA6zdNRSs+h3NmISdyn4ETH\n9rLdhnnpAs+SWt7NtRCb2vUZLzwFaNC4SbohSlHf8oRxCDKRztvX7ik94azs6x1L\nTAxErMvTId6B8W+UsXDvrTYHissKAKm2dP0zGPxhc1oq/7dP8ThV5w4/iKndDngT\nKusAtgakDIrHL8u6T0e6cA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "vertex-ai@chat-app-d8550.iam.gserviceaccount.com",
+  "client_id": "114384750988035605197",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vertex-ai%40chat-app-d8550.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
